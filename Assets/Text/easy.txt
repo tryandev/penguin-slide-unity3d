@@ -1,0 +1,37 @@
+1) mid, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, pit, flatleft, flatmid, flatmid, flatright
+2) hi, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, pit, flatleft, flatmid, flatmid, flatright
+3) low, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, pit, flatleft, flatmid, flatmid, flatright
+
+4) hi, flatleft, flatmid, flatmid, coins:arc4:100, flatright, low, flatleft, flatmid, flatright, hi, flatleft, flatmid, flatmid, flatright
+5) mid, flatleft, flatmid, flatmid, coins:arc4:100, flatright, low, flatleft, flatmid, flatright, mid, flatleft, flatmid, flatmid, flatright
+6) mid, flatleft, flatmid, flatmid, coins:arc4:100, flatmid, flatmid, flatmid, flatmid, flatright
+
+7) hi, flatleft, flatmid, slantdown, flatmid, flatright
+8) mid, flatleft, flatmid, slantup, flatmid, flatright
+9) hi, flatleft, flatmid, flatmid, flatmid, flatmid, flatmid, flatmid, flatright
+		
+10) low, flatleft, flatmid, flatmid, flatmid, flatmid, flatmid, flatmid, flatright
+11) mid, flatleft, flatmid, slantup, flatmid, slantdown, flatmid, flatright
+12) low, flatleft, flatmid, slantup, flatmid, slantdown, flatmid, flatright
+
+13) mid, flatleft, flatmid, slantdown, flatmid, flatright
+14) hi, flatleft, flatmid, slantdown, slantdown, flatmid, flatright
+15) low, flatleft, flatmid, slantup, flatmid, flatright
+
+16) low, flatleft, flatmid, slantup, slantup, flatmid, flatright
+17) hi, flatleft, flatmid, flatmid, flatright, low, flatleft, flatright, hi, flatleft, flatmid, flatmid, flatright
+18) low, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, low, flatleft, flatmid, flatmid, flatright
+
+19) hi, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, hi, flatleft, flatmid, flatmid, flatright
+20) mid, flatleft, flatmid, flatmid, coins:arc4:100, flatright, low, flatleft, flatright, mid, flatleft, flatmid, flatmid, flatright
+21) mid, flatleft, flatmid, flatmid, slantup, flatmid, slantdown, slantdown, curve, coins:arc4:100, pit, pit, flatleft, flatmid, flatmid, flatmid, flatmid, flatright
+		
+22) mid, flatleft, flatmid, flatmid, flatright, low, flatleft, flatmid, flatmid, flatright
+23) mid, flatleft, flatmid, flatmid, coins:arc4:100, flatright, pit, pit, low, flatleft, flatmid, flatmid, flatright
+24) hi, flatleft, wings:50, flatmid, flatmid, flatright, mid, flatleft, flatmid, flatmid, flatright, low, flatleft, flatmid, flatmid, flatright
+		
+25) low, flatleft, flatmid, flatmid, flatright, mid, flatleft, flatmid, flatmid, flatright
+26) low, flatleft, flatmid, flatmid, flatright, pit, pit, mid, flatleft, flatmid, flatmid, flatright
+27) low, flatleft, flatmid, flatmid, flatright, mid, flatleft, flatmid, flatmid, flatright, hi, flatleft, flatmid, flatmid, flatright
+
+28) low, flatleft, flatmid, flatmid, flatright, pit, pit, mid, flatleft, flatmid, flatmid, flatright, hi, flatleft, flatmid, flatmid, flatright

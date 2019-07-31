@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 4b2c2e4f66e9140caba16792439a562e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 99
+        height: 82
+      alignment: 9
+      pivot: {x: .375651509, y: .0672987029}
+    - name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 425
+        width: 96
+        height: 84
+      alignment: 9
+      pivot: {x: .340812534, y: .121285573}
+    - name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 425
+        width: 95
+        height: 84
+      alignment: 9
+      pivot: {x: .303389549, y: .136446267}
+    - name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 423
+        width: 96
+        height: 87
+      alignment: 9
+      pivot: {x: .292172104, y: .117103316}
+    - name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 429
+        width: 97
+        height: 80
+      alignment: 9
+      pivot: {x: .307443529, y: .12204361}
+    - name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 337
+        width: 98
+        height: 80
+      alignment: 9
+      pivot: {x: .335397959, y: .0955123901}
+    - name: Run_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 337
+        width: 100
+        height: 81
+      alignment: 9
+      pivot: {x: .364160001, y: .0890924931}
+    - name: Run_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 337
+        width: 101
+        height: 81
+      alignment: 9
+      pivot: {x: .38651979, y: .062888816}
+    - name: Run_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 333
+        width: 99
+        height: 84
+      alignment: 9
+      pivot: {x: .362788051, y: .0808570534}
+    - name: Run_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 245
+        width: 96
+        height: 83
+      alignment: 9
+      pivot: {x: .318703145, y: .0920601338}
+    - name: Run_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 243
+        width: 96
+        height: 84
+      alignment: 9
+      pivot: {x: .287750095, y: .0909641832}
+    - name: Run_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 249
+        width: 95
+        height: 78
+      alignment: 9
+      pivot: {x: .294452697, y: .0979614258}
+    - name: Run_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 95
+        height: 78
+      alignment: 9
+      pivot: {x: .312326521, y: .0816345215}
+    - name: Run_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 249
+        width: 97
+        height: 78
+      alignment: 9
+      pivot: {x: .34683007, y: .0598653145}
+    - name: Run_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 157
+        width: 98
+        height: 80
+      alignment: 9
+      pivot: {x: .348392874, y: .0689809769}
+  spritePackingTag: 
+  userData: 

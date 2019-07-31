@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: 19777b0dd10054d8582579233ad92025
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Braid - Tim_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1208
+        width: 81
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1208
+        width: 81
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1208
+        width: 81
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1208
+        width: 81
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_14
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_19
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_20
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1208
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_21
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1208
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_22
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1208
+        width: 78
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_23
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1208
+        width: 91
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1034
+        width: 123
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1031
+        width: 118
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1031
+        width: 120
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1029
+        width: 116
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1026
+        width: 106
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1026
+        width: 106
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1026
+        width: 103
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1026
+        width: 101
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1026
+        width: 98
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_33
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1046
+        width: 101
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_34
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1053
+        width: 98
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1053
+        width: 96
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_36
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1056
+        width: 98
+        height: 118
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_37
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1056
+        width: 99
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_38
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1051
+        width: 115
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_39
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1058
+        width: 126
+        height: 99
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_40
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1058
+        width: 125
+        height: 99
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_41
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1058
+        width: 125
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 876
+        width: 96
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 879
+        width: 99
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 879
+        width: 101
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 876
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 881
+        width: 108
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 884
+        width: 118
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_48
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 884
+        width: 120
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_49
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 881
+        width: 113
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_50
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 879
+        width: 104
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_51
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 884
+        width: 103
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_52
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 881
+        width: 101
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_53
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 876
+        width: 96
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 874
+        width: 93
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 874
+        width: 96
+        height: 145
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_56
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 876
+        width: 95
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_57
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 879
+        width: 96
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_58
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 879
+        width: 103
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_59
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 879
+        width: 108
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 736
+        width: 106
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 736
+        width: 108
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 736
+        width: 98
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 734
+        width: 96
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 734
+        width: 101
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_65
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 736
+        width: 108
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_66
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 736
+        width: 108
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_67
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 734
+        width: 113
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_68
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 736
+        width: 113
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_69
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 704
+        width: 111
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_70
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 704
+        width: 123
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_71
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 704
+        width: 128
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_72
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 707
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_73
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 707
+        width: 110
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_74
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 545
+        width: 111
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 549
+        width: 101
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 542
+        width: 101
+        height: 145
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 552
+        width: 103
+        height: 120
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_78
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 552
+        width: 108
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_79
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 101
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_80
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 542
+        width: 98
+        height: 145
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_81
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 552
+        width: 103
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_82
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 554
+        width: 108
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_83
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 545
+        width: 122
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_84
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 542
+        width: 130
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_85
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 545
+        width: 130
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_86
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 547
+        width: 118
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_87
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 547
+        width: 116
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_88
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 547
+        width: 118
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_89
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 545
+        width: 113
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_91
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 370
+        width: 105
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 370
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 370
+        width: 105
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 370
+        width: 105
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_95
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 370
+        width: 103
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_96
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 370
+        width: 108
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_97
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 368
+        width: 108
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_98
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 368
+        width: 105
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_99
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 370
+        width: 108
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_100
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 370
+        width: 111
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_101
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 370
+        width: 113
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_102
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 370
+        width: 115
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_103
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 370
+        width: 115
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_104
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 370
+        width: 116
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_105
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 370
+        width: 116
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 210
+        width: 108
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 213
+        width: 111
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_108
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 213
+        width: 113
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_109
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 210
+        width: 121
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_110
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 210
+        width: 116
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_111
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 210
+        width: 115
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_112
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 210
+        width: 111
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_113
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 210
+        width: 105
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_114
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 208
+        width: 95
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_115
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 205
+        width: 93
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_116
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 205
+        width: 113
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_117
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 205
+        width: 113
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_118
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 205
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_119
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 205
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_120
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 208
+        width: 110
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_121
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 208
+        width: 108
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_122
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 208
+        width: 110
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_123
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 208
+        width: 110
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_124
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_125
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 83
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_126
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 79
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_127
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 31
+        width: 79
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_128
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 31
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_129
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 33
+        width: 83
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_130
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 33
+        width: 84
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_131
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 33
+        width: 81
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_132
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 33
+        width: 86
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_133
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 33
+        width: 89
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_134
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 33
+        width: 88
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_135
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 33
+        width: 86
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_136
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 33
+        width: 84
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_137
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 33
+        width: 84
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_138
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 45
+        width: 88
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_139
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 45
+        width: 86
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_140
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 45
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_141
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 45
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_142
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 45
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_143
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 45
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_144
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 45
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PC Computer - Braid - Tim_145
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 45
+        width: 88
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 

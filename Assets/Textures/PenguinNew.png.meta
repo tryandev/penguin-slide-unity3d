@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: c23f94afe27354baebdb4ecded728294
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PenguinNew_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3611
+        width: 470
+        height: 482
+      alignment: 9
+      pivot: {x: .404491395, y: .108652204}
+    - name: PenguinNew_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3611
+        width: 464
+        height: 482
+      alignment: 9
+      pivot: {x: .387132317, y: .119000323}
+    - name: PenguinNew_2
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3611
+        width: 456
+        height: 480
+      alignment: 9
+      pivot: {x: .346869767, y: .114300534}
+    - name: PenguinNew_3
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 3601
+        width: 440
+        height: 490
+      alignment: 9
+      pivot: {x: .32996577, y: .111967877}
+    - name: PenguinNew_4
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 3593
+        width: 426
+        height: 500
+      alignment: 9
+      pivot: {x: .283399403, y: .114716306}
+    - name: PenguinNew_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3601
+        width: 440
+        height: 490
+      alignment: 9
+      pivot: {x: .329965502, y: .111967877}
+    - name: PenguinNew_6
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 3611
+        width: 456
+        height: 480
+      alignment: 9
+      pivot: {x: .352338821, y: .114300534}
+    - name: PenguinNew_7
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 3611
+        width: 464
+        height: 482
+      alignment: 9
+      pivot: {x: .381757528, y: .11382626}
+    - name: PenguinNew_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3119
+        width: 538
+        height: 470
+      alignment: 9
+      pivot: {x: .379480034, y: .122038625}
+    - name: PenguinNew_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3117
+        width: 566
+        height: 472
+      alignment: 9
+      pivot: {x: .398660392, y: .132088348}
+    - name: PenguinNew_10
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3117
+        width: 582
+        height: 472
+      alignment: 9
+      pivot: {x: .40573132, y: .137372032}
+    - name: PenguinNew_11
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3117
+        width: 614
+        height: 472
+      alignment: 9
+      pivot: {x: .422829092, y: .137372032}
+    - name: PenguinNew_12
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 3119
+        width: 548
+        height: 470
+      alignment: 9
+      pivot: {x: .349824101, y: .143262759}
+    - name: PenguinNew_13
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 3117
+        width: 614
+        height: 472
+      alignment: 9
+      pivot: {x: .426890612, y: .137372032}
+    - name: PenguinNew_14
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3117
+        width: 582
+        height: 472
+      alignment: 9
+      pivot: {x: .401446462, y: .132088348}
+    - name: PenguinNew_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2643
+        width: 568
+        height: 472
+      alignment: 9
+      pivot: {x: .394626707, y: .132088348}
+    - name: PenguinNew_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2793
+        width: 806
+        height: 322
+      alignment: 9
+      pivot: {x: .503094077, y: .170385897}
+    - name: PenguinNew_17
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2685
+        width: 520
+        height: 430
+      alignment: 9
+      pivot: {x: .380104184, y: .0695948377}
+    - name: PenguinNew_18
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2673
+        width: 506
+        height: 442
+      alignment: 9
+      pivot: {x: .342287093, y: .118484981}
+    - name: PenguinNew_19
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2673
+        width: 490
+        height: 442
+      alignment: 9
+      pivot: {x: .296421587, y: .135411873}
+    - name: PenguinNew_20
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 2657
+        width: 502
+        height: 458
+      alignment: 9
+      pivot: {x: .296320587, y: .119790956}
+    - name: PenguinNew_21
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 2693
+        width: 506
+        height: 422
+      alignment: 9
+      pivot: {x: .293002039, y: .12410038}
+    - name: PenguinNew_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2221
+        width: 512
+        height: 420
+      alignment: 9
+      pivot: {x: .339264452, y: .10687837}
+    - name: PenguinNew_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2217
+        width: 522
+        height: 424
+      alignment: 9
+      pivot: {x: .361453593, y: .0764615014}
+    - name: PenguinNew_24
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2213
+        width: 532
+        height: 428
+      alignment: 9
+      pivot: {x: .382808357, y: .0640937611}
+    - name: PenguinNew_25
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2195
+        width: 520
+        height: 444
+      alignment: 9
+      pivot: {x: .351328909, y: .0842510611}
+    - name: PenguinNew_26
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2207
+        width: 500
+        height: 432
+      alignment: 9
+      pivot: {x: .315456063, y: .092364274}
+    - name: PenguinNew_27
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2201
+        width: 502
+        height: 440
+      alignment: 9
+      pivot: {x: .291352659, y: .0850169808}
+    - name: PenguinNew_28
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2233
+        width: 496
+        height: 408
+      alignment: 9
+      pivot: {x: .293856233, y: .0855724886}
+    - name: PenguinNew_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1779
+        width: 500
+        height: 412
+      alignment: 9
+      pivot: {x: .320443839, y: .0726356879}
+    - name: PenguinNew_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1783
+        width: 506
+        height: 408
+      alignment: 9
+      pivot: {x: .337358564, y: .0611231178}
+    - name: PenguinNew_31
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1771
+        width: 512
+        height: 420
+      alignment: 9
+      pivot: {x: .358747721, y: .0653145909}
+    - name: PenguinNew_32
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1757
+        width: 984
+        height: 436
+      alignment: 9
+      pivot: {x: .383418262, y: .154434338}
+    - name: PenguinNew_33
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1763
+        width: 984
+        height: 428
+      alignment: 9
+      pivot: {x: .383418381, y: .157320961}
+    - name: PenguinNew_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1325
+        width: 984
+        height: 428
+      alignment: 9
+      pivot: {x: .385952592, y: .151494399}
+    - name: PenguinNew_35
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1325
+        width: 984
+        height: 430
+      alignment: 9
+      pivot: {x: .383418262, y: .150790051}
+    - name: PenguinNew_36
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1325
+        width: 984
+        height: 430
+      alignment: 9
+      pivot: {x: .385952592, y: .156589806}
+    - name: PenguinNew_37
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1317
+        width: 984
+        height: 438
+      alignment: 9
+      pivot: {x: .385952592, y: .159423277}
+    - name: PenguinNew_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 879
+        width: 984
+        height: 434
+      alignment: 9
+      pivot: {x: .385952592, y: .155146301}
+    - name: PenguinNew_39
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 883
+        width: 984
+        height: 430
+      alignment: 9
+      pivot: {x: .385952711, y: .168188334}
+    - name: PenguinNew_40
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 883
+        width: 984
+        height: 432
+      alignment: 9
+      pivot: {x: .385952592, y: .161636919}
+  spritePackingTag: 
+  userData: 

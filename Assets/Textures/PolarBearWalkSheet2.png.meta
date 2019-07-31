@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 5d91576a574594d88a84271a888fde1b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PolarBearWalkSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 911
+        width: 148
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 909
+        width: 145
+        height: 114
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 910
+        width: 144
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 145
+        height: 110
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 796
+        width: 144
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 795
+        width: 143
+        height: 114
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 688
+        width: 144
+        height: 110
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 685
+        width: 142
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 682
+        width: 141
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 141
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 574
+        width: 141
+        height: 109
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 569
+        width: 139
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 140
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 460
+        width: 139
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 456
+        width: 139
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 139
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 349
+        width: 139
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 347
+        width: 139
+        height: 109
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 138
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 237
+        width: 138
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 236
+        width: 138
+        height: 110
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 137
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 138
+        height: 109
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PolarBearWalkSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 137
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 
